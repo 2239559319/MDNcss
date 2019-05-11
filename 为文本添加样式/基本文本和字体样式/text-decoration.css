@@ -1,0 +1,8 @@
+/*
+text-decoration: 设置/取消字体上的文本装饰 (你将主要使用此方法在设置链接时取消设置链接上的默认下划线。) 可用值为：
+none: 取消已经存在的任何文本装饰。
+underline: 文本下划线.
+overline: 文本上划线
+line-through: 穿过文本的线 strikethrough over the text.
+
+*/
