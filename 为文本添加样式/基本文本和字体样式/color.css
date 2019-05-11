@@ -1,0 +1,9 @@
+/*颜色
+color 属性设置选中元素的前景内容的颜色 (通常指文本，不过也包含一些其他东西，
+或者是使用 text-decoration 属性放置在文本下方或上方的线 (underline overline)。
+color 也可以接受任何合法的 CSS 颜色单位,
+color属性
+*/
+p{
+    color: red;
+}
