@@ -1,0 +1,10 @@
+section{
+    display: flex;
+}
+/*首先，我们需要选择将哪些元素将设置为柔性的盒子。
+我们需要给这些 flexible 元素的父元素 display 设置一个特定值。
+在本例中，我们想要设置 <article> 元素，因此我们给 <section>（变成了 flex 容器）设置 display：
+
+假如你想设置行内元素为 flexible box，也可以置 display 属性的值为 inline-flex。
+
+*/
