@@ -1,0 +1,7 @@
+/*
+CSS flex-grow 属性定义弹性盒子项（flex item）的拉伸因子。
+一般是flex属性的第一个分属性
+*/
+article{
+    flex-grow: 1;
+}
