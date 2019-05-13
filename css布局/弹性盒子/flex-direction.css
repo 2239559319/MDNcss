@@ -1,0 +1,11 @@
+/*
+弹性盒子提供了 flex-direction 这样一个属性，
+它可以指定主轴的方向（弹性盒子子类放置的地方）— 它默认值是 row，
+这使得它们在按你浏览器的默认语言方向排成一排（在英语/中文浏览器中是从左到右）。
+
+
+*/
+section{
+    display: flex;
+    flex-direction: column;
+}
